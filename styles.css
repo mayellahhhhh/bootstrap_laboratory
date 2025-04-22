@@ -1,0 +1,41 @@
+.custom-nav{
+    background-color: rgb(239, 118, 173) !important;
+    color: rgb(80, 15, 33) !important;
+}
+
+body{
+    background-color: rgba(254, 223, 227, 0.282) !important;
+}
+
+.lighter-pink{
+    background-color: rgb(254, 223, 234) !important;
+}
+
+.text-darkpink{
+    color: rgb(80, 15, 33) !important;
+}
+
+.custom-nav a.nav-link:hover {
+    color: #ffffff !important;
+}
+
+.custom-nav a.nav-link{
+    color: rgb(80, 15, 33) !important;
+}
+
+h1, h2, h3, p, a {
+    color: rgb(80, 15, 33) !important; 
+}
+.skill-box {
+    background-color: rgb(242, 174, 200); 
+    border-radius: 10px;
+    padding: 20px; 
+}
+.skill-box:hover {
+    background-color: rgb(255, 192, 229); 
+    transition: background-color 0.3s ease; 
+}
+
+.content-box {
+    background-color: rgb(249, 220, 230); 
+}
